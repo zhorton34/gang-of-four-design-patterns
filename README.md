@@ -1,8 +1,5 @@
 # Laravel and Gang of Four (GoF) Design Patterns
 
-![image](https://github.com/user-attachments/assets/0e78cd1e-3d75-4eb8-854a-8c6e085336fc)
-
-
 | **#** | **Design Pattern**         | **Laravel Example**                    | **Category**         |
 |-------|----------------------------|----------------------------------------|----------------------|
 | 1     | [Abstract Factory](#1-abstract-factory)            | Cache Manager                          | Creational Patterns  |
@@ -687,3 +684,5 @@ Understanding these patterns within Laravel can help developers recognize design
   
 
 </small></small></small>
+
+![image](https://github.com/user-attachments/assets/0e78cd1e-3d75-4eb8-854a-8c6e085336fc)
