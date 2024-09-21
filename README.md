@@ -1,4 +1,6 @@
-# Laravel and Gang of Four (GoF) Design Patterns
+![image](https://github.com/user-attachments/assets/79398670-a25c-407e-94e0-9a2b321d14d5)# Laravel and Gang of Four (GoF) Design Patterns
+
+![image](https://github.com/user-attachments/assets/0e78cd1e-3d75-4eb8-854a-8c6e085336fc)
 
 
 | **#** | **Design Pattern**         | **Laravel Example**                    | **Category**         |
