@@ -681,5 +681,9 @@ Understanding these patterns within Laravel can help developers recognize design
 - **Laravel Documentation:** [https://laravel.com/docs](https://laravel.com/docs)
 - **Design Patterns in PHP:** [https://designpatternsphp.readthedocs.io](https://designpatternsphp.readthedocs.io)
 - **Gang of Four Design Patterns:** [https://en.wikipedia.org/wiki/Design_Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
+- **Clean Code Studio:** [Design Patterns](https://cleancode.studio)
+- **Find How Deno Packages:** [Find How]([https://find.how](https://jsr.io/@findhow))
+- **Find How:** [Find How](https://find.how)
+  
 
 </small></small></small>
